@@ -2,6 +2,10 @@
 
 移动平台光影优化，间接光方案、多光源等
 
+* PRT TOD
+
+    ![image](RenderPictures/PRT_TOD.gif)
+
 Lightmap、PRT、Mobile VLM对比：
 
 * LightMap
@@ -25,6 +29,7 @@ Lightmap、PRT、Mobile VLM对比：
 下面是PRT在不同时间段对比：
 
 上图是With PRT，下图是No PRT
+
 
 6 AM:
 
